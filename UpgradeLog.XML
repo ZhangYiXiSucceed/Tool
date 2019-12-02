@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sniffer">
+</Property><Property Name="解决方案文件" Value="E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Sniffer.sln">
+</Property><Property Name="用户选项文件" Value="E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Sniffer.suo">
+</Property><Property Name="Date" Value="2015年7月28日">
+</Property><Property Name="Time" Value="19:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sniffer.sln" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Sniffer.suo" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer.suo">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Sniffer.csproj" Description="项目文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Sniffer.csproj">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Sniffer.csproj.user" Description="项目用户文件成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Sniffer.csproj.user">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Explain.cs" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Explain.cs">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Form1.cs" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Form1.Designer.cs" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\MyQueue.cs" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\MyQueue.cs">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\ParaSetting.cs" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\ParaSetting.cs">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\ParaSetting.Designer.cs" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\ParaSetting.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Program.cs" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Program.cs">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\SerialComm.cs" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\SerialComm.cs">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Properties\Settings.settings" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Pixels.ico" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Pixels.ico">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Form1.resx" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\ParaSetting.resx" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\ParaSetting.resx">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Properties\Resources.resx" Description="文件已成功备份为 E:\工作文件夹\汇总\抓包工具\Sniffer\Sniffer\Backup\Sniffer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Sniffer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Sniffer" Source="Sniffer\Sniffer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Sniffer.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Sniffer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer\Sniffer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
