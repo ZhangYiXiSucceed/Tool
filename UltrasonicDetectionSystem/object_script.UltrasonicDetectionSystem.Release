@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\UltrasonicDetectionSystem.o
+./release\Login.o
+./release\TimeDomain.o
+./release\FrequencyDomain.o
+./release\Database.o
+./release\qcustomplot.o
+./release\qrc_image.o
+./release\moc_UltrasonicDetectionSystem.o
+./release\moc_Login.o
+./release\moc_TimeDomain.o
+./release\moc_FrequencyDomain.o
+./release\moc_Database.o
+./release\moc_qcustomplot.o
+);

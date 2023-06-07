@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/SchoolBadge.jpg</file>
+        <file>Image/GuidedWaves.png</file>
+        <file>Image/LongitudinalWave.png</file>
+        <file>UDP.ico</file>
+        <file>Image/Close.png</file>
+        <file>Image/Open.png</file>
+        <file>Image/Start.png</file>
+        <file>Image/Stop.png</file>
+        <file>Image/Change.png</file>
+        <file>Image/ClearWaves.png</file>
+        <file>Image/SaveData.png</file>
+        <file>Image/FrequencyDomain.png</file>
+        <file>Image/ReadPara.png</file>
+        <file>Image/WritePara.png</file>
+        <file>Image/LoadData.png</file>
+        <file>Image/ReadCalcuate.png</file>
+        <file>Image/ConfirmHarm.png</file>
+        <file>Image/Database.png</file>
+        <file>Image/Inquiry.png</file>
+        <file>Image/Reset.png</file>
+    </qresource>
+</RCC>

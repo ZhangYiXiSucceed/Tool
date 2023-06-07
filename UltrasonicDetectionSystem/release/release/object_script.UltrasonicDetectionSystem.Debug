@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\UltrasonicDetectionSystem.o
+./debug\Login.o
+./debug\TimeDomain.o
+./debug\FrequencyDomain.o
+./debug\Database.o
+./debug\qcustomplot.o
+./debug\qrc_image.o
+./debug\moc_UltrasonicDetectionSystem.o
+./debug\moc_Login.o
+./debug\moc_TimeDomain.o
+./debug\moc_FrequencyDomain.o
+./debug\moc_Database.o
+./debug\moc_qcustomplot.o
+);
